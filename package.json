@@ -1,0 +1,17 @@
+{
+  "name": "serverprotocolos",
+  "version": "0.0.0",
+  "main": "main.js",
+  "scripts": {
+    "start": "node src/main.js",
+    "dev": "nodemon src/main.js"
+  },
+  "keywords": [],
+  "author": "AlejandroBrice",
+  "dependencies": {
+    "body-parse": "^0.1.0",
+    "express": "^4.17.1",
+    "morgan": "^1.10.0"
+  },
+  "description": ""
+}
